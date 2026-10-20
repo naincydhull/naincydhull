@@ -35,14 +35,6 @@ A simple photo editor where you can **resize images**, **adjust pixel resolution
 ###  Dhull Cosmetic Shop Chatbot
 An AI customer-support chatbot that answers shop-related questions. Built with the **Groq API** on **Replit**, to be hosted on **Vercel**. I'm also working on a **voice agent** for the shop using Cartesia.
 🔗 [View on Replit](https://replit.com/@nancydhull72/Dhull-Cosmetic-Shop-Chatbot)
-
----
-
-##  Education
-
-- **12th** (2026)
-- **10th** (2024)
-
 ---
 
 ##  Beyond Code
