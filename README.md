@@ -37,10 +37,6 @@ An AI customer-support chatbot that answers shop-related questions. Built with t
 🔗 [View on Replit](https://replit.com/@nancydhull72/Dhull-Cosmetic-Shop-Chatbot)
 ---
 
-##  Beyond Code
-
-I love **dancing**!
-
 ---
 
 ##  Let's Connect
